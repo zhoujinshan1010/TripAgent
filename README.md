@@ -73,7 +73,7 @@
 | 类别 | 技术 |
 |------|------|
 | 多智能体框架 | [AgentScope](https://github.com/modelscope/agentscope) |
-| 大语言模型 | 硅基流动|
+| 大语言模型 | 千问 Qwen|
 | 关系型数据库 | PostgreSQL |
 | 缓存层 | Redis |
 | 向量数据库 | Milvus |
